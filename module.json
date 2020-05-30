@@ -1,27 +1,21 @@
-{   
-   "name": "PF2e-Skills",   
-   "title": "Pathfinder 2e Skills Compendium",   
-   "description": "Pathfinder 2e Skill Compendium with descriptions and linked actions, feats, etc",   
-   "version": "0.1",
-   "author": "llothos",
-  
-   
-"packs": [
-    {
-        "name": "Skills (SRD)",
-        "label": "Skills (SRD)",
-        "path": "packs/skills-srd.db",
-        "entity": "JournalEntry",
-        "module": "PF2e-Skills",
-    }
-        ],
-"manifest": "https://raw.githubusercontent.com/llothos/PF2E-Skills-Compendium/master/module.json",
-"url": "https://github.com/llothos/PF2E-Skills-Compendium",
-"download": "https://github.com/llothos/PF2E-Skills-Compendium/archive/master.zip",
-
-
-"minimumCoreVersion": "0.6.0"
-
+{
+    "name": "PF2e-Skills",
+    "title": "Pathfinder 2e Skills Compendium",
+    "description": "Pathfinder 2e Skill Compendium with descriptions and linked actions, feats, etc",
+    "author": "llothos",
+    "version": "0.1",
+    "minimumCoreVersion": "0.6.0",
+    "packs": [
+        {
+            "name": "Skills (SRD)",
+            "label": "Skills (SRD)",
+            "system": "Pf2e",
+            "path": "./packs/skills-srd.db",
+            "entity": "JournalEntry",
+            "module": "PF2e-Skills"
+        }
+    ],
+    "url": "https://github.com/llothos/PF2E-Skills-Compendium",
+    "manifest": "https://raw.githubusercontent.com/llothos/PF2E-Skills-Compendium/master/module.json",
+    "download": "https://github.com/llothos/PF2E-Skills-Compendium/archive/master.zip"
 }
-
- 
