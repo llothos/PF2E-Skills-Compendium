@@ -15,9 +15,10 @@
         "module": "PF2e-Skills",
     }
         ],
+"manifest": "https://github.com/llothos/PF2E-Skills-Compendium/module.json",
 "url": "https://github.com/llothos/PF2E-Skills-Compendium",
 "download": "https://github.com/llothos/PF2E-Skills-Compendium/archive/master.zip",
-"manifest": "https://github.com/llothos/PF2E-Skills-Compendium/module.json",
+
 
 "minimumCoreVersion": "0.6.0"
 
