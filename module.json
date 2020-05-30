@@ -2,8 +2,9 @@
    "name": "PF2e-Skills",   
    "title": "Pathfinder 2e Skills Compendium",   
    "description": "Pathfinder 2e Skill Compendium with descriptions and linked actions, feats, etc",   
-   "author": "llothos",
    "version": "0.1",
+   "author": "llothos",
+  
    
 "packs": [
     {
@@ -15,8 +16,9 @@
     }
         ],
 "url": "https://github.com/llothos/PF2E-Skills-Compendium",
-"manifest": "https://github.com/llothos/PF2E-Skills-Compendium/module.json",
 "download": "https://github.com/llothos/PF2E-Skills-Compendium/archive/master.zip",
+"manifest": "https://github.com/llothos/PF2E-Skills-Compendium/module.json",
+
 "minimumCoreVersion": "0.6.0"
 
 }
