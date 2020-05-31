@@ -10,7 +10,7 @@
         {
             "name": "Skills (SRD)",
             "label": "Skills (SRD)",
-            "system": "Pf2e",
+            "system": "pf2e",
             "path": "./packs/skills-srd.db",
             "entity": "JournalEntry",
             "module": "PF2e-Skills"
