@@ -5,7 +5,7 @@
     "version": "0.1",
     "author": "llothos",
     "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.6.1",
     "packs": [
         {
             "name": "Skills (SRD)",
